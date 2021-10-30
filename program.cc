@@ -72,3 +72,16 @@ int checa(int gerado, int palp)
     else
         return 0;
 }
+
+void dica(int gerado, int palp)
+{
+    if(palp<gerado)
+        cout<<"ERROU! Seu palpite foi MENOR que o número sorteado!"<<endl;
+    else
+        if(palp>gerado)
+            cout<<"ERROU! Seu palpite foi MAIOR que o número sorteado!"<<endl;
+        else
+            cout<<"Ahhhhh muleeeeque!"<<endl;
+}
+
+
