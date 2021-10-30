@@ -38,3 +38,16 @@ int main()
 
     return 0;
 }
+
+void limpa()
+{
+    if(system("CLS")) system("clear");
+}
+
+int gerar()
+{
+    unsigned seed = time(0);
+    srand(seed);
+
+    return 1+rand()%100;
+}
