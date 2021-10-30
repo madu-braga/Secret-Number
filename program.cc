@@ -23,7 +23,8 @@ int main()
     do{
         limpa();
         tentativas=0;
-        cout<<"Record até o momento: "<< record <<" tentativas!"<<endl;
+        printf("-------- Adivinhe o número --------\n\n");
+        cout<<"Record até o momento: "<< record <<" tentativa(s)!"<<endl;
         gerado = gerar();
         cout<<"\nNúmero sorteado! "<<endl;
 
@@ -56,9 +57,10 @@ int palpite(int tent)
 {
     int palp;
     cout<<"\nTente adivinhar o número de 1 até 100."<<endl;
-    cout<<"Tentativa "<<tent<<":"<<endl;
+    
+    printf("Tentativa %d: ", tent);
     cin >> palp;
-
+    
     if(palp>0 && palp<=100)
         return palp;
     else
@@ -81,7 +83,7 @@ void dica(int gerado, int palp)
         if(palp>gerado)
             cout<<"ERROU! Seu palpite foi MAIOR que o número sorteado!"<<endl;
         else
-            cout<<"Ahhhhh muleeeeque!"<<endl;
+            cout<<"Parabéns, você acertou o número!"<<endl;
 }
 
 void encerra(int tent)
