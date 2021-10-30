@@ -51,3 +51,24 @@ int gerar()
 
     return 1+rand()%100;
 }
+
+int palpite(int tent)
+{
+    int palp;
+    cout<<"\nTente adivinhar o número de 1 até 100."<<endl;
+    cout<<"Tentativa "<<tent<<":"<<endl;
+    cin >> palp;
+
+    if(palp>0 && palp<=100)
+        return palp;
+    else
+        cout<<"Só vale números de 1 até 100"<<endl;
+}
+
+int checa(int gerado, int palp)
+{
+    if(gerado == palp)
+        return 1;
+    else
+        return 0;
+}
