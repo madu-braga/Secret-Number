@@ -84,4 +84,29 @@ void dica(int gerado, int palp)
             cout<<"Ahhhhh muleeeeque!"<<endl;
 }
 
+void encerra(int tent)
+{
+    cout<<"\nVocê acertou em "<<tent<<" tentativa(s)!"<<endl;
 
+    if(record==0)
+        record = tent;
+
+    if(tent<=record){
+        cout<<"Parabéns! O record é seu!"<<endl;
+        record = tent;
+    }
+    else
+        cout<<"O record ainda é de "<<record<<" tentativa(s)"<<endl;
+}
+
+int continuar()
+{
+    int cont=1;
+
+    cout<<"\nJogar de novo?"<<endl;
+    cout<<"0. Sair"<<endl;
+    cout<<"1. De novo!"<<endl;
+    cin >> cont;
+
+    return cont;
+}
