@@ -4,7 +4,7 @@
 ## 🎯 Funcionalidades
 ✔️ O programa permite ao usuário adivinhar um número sorteado; <br>
 ✔️ O programa permite ao usuário jogar quantas vezes desejar; <br>
-✔️ O programa armazena o record atual e o atualiza a cada jogo<br>
+✔️ O programa armazena o record atual e o atualiza a cada jogo; <br>
 ✔️ O programa reconhece os erros de entrada.
 
 ## 🚀 Linguagens
