@@ -12,8 +12,9 @@
 
 ## 🎨 Layout
 <p align="left">
-      <img src="Imagens/img1.png" width="360"> &nbsp; &nbsp; 
-      <img src="Imagens/img2.png" width="317"> &nbsp; &nbsp;  
+      <img src="img/img1.jpg" width="65%"><br><br>
+      <img src="img/img2.jpg" width="50%"><br><br>
+      <img src="img/img3.jpg" width="20%"><br>
       
 ## ⚖️ Licença
 ✔️ MIT License.
