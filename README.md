@@ -12,9 +12,9 @@
 
 ## 🎨 Layout
 <p align="left">
-      <img src="img/img1.jpg" width="65%"><br><br>
-      <img src="img/img2.jpg" width="50%"><br><br>
-      <img src="img/img3.jpg" width="20%"><br>
+      <img src="img/img1.jpg" width="600px" height="250px"><br><br>
+      <img src="img/img2.jpg" width="390px" height="190px"><br><br>
+      <img src="img/img3.jpg" width="160px" height="80px"><br>
       
 ## ⚖️ Licença
 ✔️ MIT License.
