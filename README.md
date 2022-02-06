@@ -1,5 +1,5 @@
 <h1 align="center"> Adivinhe o Número</h1>
-<p align="center">Programação do jogo
+<p align="center"> Game program
 
 ## 🎯 Funcionalidades
 ✔️ O programa permite ao usuário adivinhar um número sorteado; <br>
