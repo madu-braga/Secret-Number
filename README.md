@@ -1,13 +1,13 @@
-<h1 align="center"> Adivinhe o Número</h1>
+<h1 align="center"> Secret Number</h1>
 <p align="center"> Game Programming
 
-## 🎯 Funcionalidades
-✔️ O programa permite ao usuário adivinhar um número sorteado; <br>
-✔️ O programa permite ao usuário jogar quantas vezes desejar; <br>
-✔️ O programa armazena o record atual e o atualiza a cada jogo; <br>
-✔️ O programa reconhece os erros de entrada.
+## 🎯 Functionalities
+✔️ The program allows the user to guess a drawn number; <br>
+✔️ The code allows the user to play as many times as he wants; <br>
+✔️ The code stores the current record and updates it every game; <br>
+✔️ The program recognizes input errors.
 
-## 🚀 Linguagens
+## 🚀 Languages
 ✔️ C++.
 
 ## 🎨 Layout
