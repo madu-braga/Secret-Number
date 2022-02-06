@@ -8,7 +8,7 @@
 ✔️ O programa reconhece os erros de entrada.
 
 ## 🚀 Linguagens
-✔️ Foi utilizado C++ em todo o projeto.
+✔️ C++.
 
 ## 🎨 Layout
 <p align="left">
@@ -16,10 +16,10 @@
       <img src="img/img2.jpg" width="390px" height="190px"><br><br>
       <img src="img/img3.jpg" width="160px" height="80px"><br>
       
-## ⚖️ Licença
+## ⚖️ License
 ✔️ MIT License.
 
-## 🔥 Sobre mim 
+## 🔥 About Myself
   <div>
   <a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
